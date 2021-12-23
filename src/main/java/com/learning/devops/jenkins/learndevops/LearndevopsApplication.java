@@ -8,7 +8,7 @@ public class LearndevopsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearndevopsApplication.class, args);
-		System.out.println("Spring App Started.");
+		System.out.println("Spring App Started");
 	}
 
 }
