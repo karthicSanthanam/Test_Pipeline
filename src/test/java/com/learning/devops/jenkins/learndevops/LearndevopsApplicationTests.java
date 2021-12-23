@@ -8,6 +8,7 @@ class LearndevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("LearndevopsApplicationTests class - contextLoads method is called.")
 	}
 
 }
